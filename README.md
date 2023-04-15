@@ -1,2 +1,2 @@
-# home-to-table
+# Home-To-Table
 HOME TO TABLE COLOURS AND CSS PROPERTIES.
